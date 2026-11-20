@@ -139,7 +139,14 @@ A lista registra os 28 arquivos reunidos para estudo, incluindo edições difere
 
 ### 1. Como um programa Java é executado?
 
-Pedi para começar pelo módulo 1. O NotebookLM explicou que o compilador `javac` transforma o código-fonte `.java` em arquivos `.class` que contêm bytecode. Em seguida, apresentou o papel da JVM, do JDK, do ambiente de execução e do compilador JIT.
+Pedi para começar pelo módulo 1. O NotebookLM explicou que o compilador `javac`
+transforma o código-fonte `.java` em arquivos `.class` que contêm bytecode.
+Em seguida, apresentou o papel da JVM, do JDK, do ambiente de execução e do compilador JIT.
+
+**Uma das fontes citadas pelo NotebookLM:** `Curso básico de Java.docx`,
+no trecho sobre a JVM e a interpretação do bytecode.
+
+<img width="902" height="805" alt="java-jvm-resposta-com-fonte" src="https://github.com/user-attachments/assets/313e87ed-859d-467b-9058-4071c0883b8f" />
 
 ### 2. Um arquivo compilado no Windows executa no Linux?
 
