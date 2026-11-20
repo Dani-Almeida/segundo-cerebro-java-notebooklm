@@ -2,11 +2,11 @@
 
 Projeto do desafio da DIO no Bootcamp DXC - IA do Zero ao Primeiro Agente, sobre a criação de um segundo cérebro com IA. Usei o NotebookLM como mentor de estudos para revisar Java, praticar explicações com minhas próprias palavras e me preparar para entrevistas de estágio e júnior.
 
-## Tema e objetivo
+## 🟠 Tema e objetivo
 
 Comecei pelos fundamentos da linguagem e da plataforma Java. Meu objetivo é conseguir explicar como cada conceito funciona, quando ele se aplica e por que eu o usaria. Para praticar, combino aulas, exemplos de código, simulações de entrevista e flashcards.
 
-## Prompt que usei
+## 🟠 Prompt que usei
 <details>
 <summary>Ver o prompt completo</summary>
 
@@ -68,7 +68,7 @@ Antes de começarmos, me pergunte:
 A partir das minhas respostas, monte um plano de estudo sugerido e comece me ajudando pelo tópico que eu escolher.
 </details>
 
-## Fontes escolhidas
+## 🟠 Fontes escolhidas
 
 | Fonte | Formato | Por que escolhi |
 | --- | --- | --- |
@@ -126,7 +126,7 @@ A lista registra os 28 arquivos reunidos para estudo, incluindo edições difere
 | Preparação para entrevistas | *Guide to Clear Java Developer Interview* | — | PDF |
 
 
-## Plano de estudo
+## 🟠 Plano de estudo
 
 | Módulo | Conteúdo | Situação |
 | --- | --- | --- |
@@ -156,7 +156,7 @@ O feedback destacou que eu identifiquei o papel da JVM e sugeriu nomear o byteco
 > Sim. O arquivo `.class` contém bytecode que pode ser executado no Linux sem recompilar, desde que a JVM seja compatível com a versão desse bytecode e o programa tenha as dependências necessárias. Se o programa depender de bibliotecas nativas ou recursos específicos do Windows, essa dependência também precisa ser tratada.
 
 
-## Materiais gerados
+## 🟠 Materiais gerados
 
 ### Flashcard sobre JVM e bytecode
 
